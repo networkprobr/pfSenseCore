@@ -1,0 +1,13 @@
+Links aula 1 módulo 0
+
+Hardware Size
+https://docs.netgate.com/pfsense/en/latest/hardware/index.html
+
+freebsd HCL
+https://www.freebsd.org/releases/11.3R/hardware.html
+
+SuperMicro X8DTL-3 datasheet
+https://www.supermicro.com/manuals/motherboard/5500/MNL-1076.pdf
+
+Xeon E5620
+https://ark.intel.com/content/www/us/en/ark/products/47925/intel-xeon-processor-e5620-12m-cache-2-40-ghz-5-86-gt-s-intel-qpi.html
