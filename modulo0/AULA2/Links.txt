@@ -1,0 +1,10 @@
+Links
+
+Netgate file system selection
+https://docs.netgate.com/pfsense/en/latest/install/installpfsense.html?highlight=zfs#partition-filesystem-selection
+
+pfSense download
+https://www.pfsense.org/download/
+
+Balena
+https://www.balena.io/etcher/
